@@ -8,7 +8,7 @@ In this unit, we will learn about the basics of a mathematical proof, and how to
 
 ### Lecture 1: Intro to Proofs I
 
-[View Lecture Slides](https://docs.google.com/presentation/d/1HksmeYReaES9zOMF8FU77YL5BE9lOlg8BRqkfu3chnY/edit)
+[View Lecture Slides](https://docs.google.com/presentation/d/1HksmeYReaES9zOMF8FU77YL5BE9lOlg8BRqkfu3chnY/edit) | [Homework](https://drive.google.com/file/d/1j13pTJCd4xWzZEMC2h1tTAutc-kHPBgw/view?usp=sharing)
 
 #### Learning Objectives
 
@@ -20,11 +20,9 @@ By the end of this lecture, you should be able to:
 
 TBD: EMBEDDED/LINKED VIDEO OF THE LECTURE HERE
 
-[Homework](https://drive.google.com/file/d/1j13pTJCd4xWzZEMC2h1tTAutc-kHPBgw/view?usp=sharing)
-
 ### Lecture 2: Intro to Proofs II
 
-[View Lecture Slides](https://docs.google.com/presentation/d/1ieze8_PaTU80Mff1tFxcLjj7m0c2GcHwdeE0JGLm8AI/edit#slide=id.g8578a98948_2_50)
+[View Lecture Slides](https://docs.google.com/presentation/d/1ieze8_PaTU80Mff1tFxcLjj7m0c2GcHwdeE0JGLm8AI/edit#slide=id.g8578a98948_2_50) | [Homework](https://drive.google.com/file/d/1caAB7y_REwsJwHmBl7UEuKRMhtnIU8r7/view?usp=sharing)
 
 #### Learning Objectives
 
@@ -35,11 +33,9 @@ By the end of this lecture, you should be able to:
 
 TBD: EMBEDDED/LINKED VIDEO OF THE LECTURE HERE
 
-[Homework](https://drive.google.com/file/d/1caAB7y_REwsJwHmBl7UEuKRMhtnIU8r7/view?usp=sharing)
-
 ### Lecture 3: Sets
 
-[View Lecture Slides](https://drive.google.com/file/d/1caAB7y_REwsJwHmBl7UEuKRMhtnIU8r7/view?usp=sharing)
+[View Lecture Slides](https://docs.google.com/presentation/d/1qvSHuxWSf9mdUJ8bKxKyEs0pfnaRec3OyWFvANWtyvk/edit?usp=sharing) | [Homework](https://drive.google.com/file/d/1B1Z16Lr-5d6Q30SU--udsYdOYhRwQp8K/view?usp=sharing)
 
 #### Learning Objectives
 
@@ -53,11 +49,9 @@ By the end of this lecture, you should be able to:
 
 TBD: EMBEDDED/LINKED VIDEO OF THE LECTURE HERE
 
-[Homework](https://drive.google.com/file/d/1B1Z16Lr-5d6Q30SU--udsYdOYhRwQp8K/view?usp=sharing)
-
 ### Lecture 4: Functions
 
-[View Lecture Slides](https://docs.google.com/presentation/d/1xnEG6FnYKDxqh8SDudgwgX4gu4RouksZzjnF53zkEws/edit#slide=id.g8086720df0_2_50)
+[View Lecture Slides](https://docs.google.com/presentation/d/1xnEG6FnYKDxqh8SDudgwgX4gu4RouksZzjnF53zkEws/edit#slide=id.g8086720df0_2_50) | [Homework](https://drive.google.com/file/d/1ZDND7wkp4_Zy19hkxcefViuHVWtLwsAx/view?usp=sharing)
 
 #### Learning Objectives
 
@@ -71,8 +65,6 @@ TBD: EMBEDDED/LINKED VIDEO OF THE LECTURE HERE
 - Compute function compositions
 
 TBD: EMBEDDED/LINKED VIDEO OF THE LECTURE HERE
-
-[Homework](https://drive.google.com/file/d/1ZDND7wkp4_Zy19hkxcefViuHVWtLwsAx/view?usp=sharing)
 
 ### Unit 2 Review
 
